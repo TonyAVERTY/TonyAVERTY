@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon GitHub !
 
 ### 🧑‍💻 À propos de moi  
-Je m'appelle **Tony Averyt**, un développeur en cours de formation passionné par l'informatique et le développement web.  
+Je m'appelle **Tony Averty**, un développeur en cours de formation passionné par l'informatique et le développement web.  
 
 🎓 Voici mon parcours :  
 - Diplômé du **brevet des collèges mention bien**.  
@@ -29,7 +29,7 @@ J'ai créé ce compte pour :
 ---
 
 ### 🔧 Mes compétences  
-| **Langages et outils**      | **Niveau**              |  
+| **Langages**      | **Niveau**              |  
 |-----------------------------|-------------------------|  
 | **HTML, CSS**               | Maîtrisé 🟢             |  
 | **PHP**                     | En cours d'apprentissage 🟡 |  
