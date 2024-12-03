@@ -44,4 +44,4 @@ Quand je ne suis pas en cours, je consacre presque tout mon **temps libre** au d
 ---
 
 ### 🌐 Mon portfolio  
-📂 Découvrez mon travail ici :  [**tony-averty.dev**](https://www.tony-averty.dev/)
+📂 Découvrez mon portfolio ici :  [**tony-averty.dev**](https://www.tony-averty.dev/)
